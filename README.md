@@ -12,3 +12,11 @@ Website - https://questbook.app/
 - mapping
 - Payable, msg.sender, msg.value
 - withdrawTo, transfer
+
+# Quest 2
+### GETTING A REAL INTEREST RATE.
+#### Things that I learnt :
+- How to use Etherscan tool
+- Solidity interface to integrate public functions from [Compound's](https://compound.finance/) contract
+- Ropsten Testnet
+- Connecting to Metamask wallet
